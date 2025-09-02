@@ -1,7 +1,6 @@
-# COVID-19-Global-Analysis-Machine-Learning-Prediction
-# COVID-19 Global Analysis Project
+# COVID-19-Global-Analysis Machine Learning Prediction
 
-A comprehensive data science and machine learning project analyzing global COVID-19 pandemic data with statistical analysis, predictive modeling, and clustering techniques.
+A comprehensive data science and machine learning project analysing global COVID-19 pandemic data with statistical analysis, predictive modelling, and clustering techniques.
 
 ## 📋 Table of Contents
 
@@ -20,10 +19,10 @@ A comprehensive data science and machine learning project analyzing global COVID
 
 ## 📊 Overview
 
-This project provides a complete data science pipeline for analyzing COVID-19 pandemic data across different countries and continents. It includes data cleaning, exploratory data analysis, machine learning predictions, clustering analysis, and comprehensive visualizations.
+This project provides a complete data science pipeline for analyzing COVID-19 pandemic data across different countries and continents. It includes data cleaning, exploratory data analysis, machine learning predictions, clustering analysis, and comprehensive visualisations.
 
 ### Key Objectives
-- Analyze global COVID-19 impact patterns
+- Analyse global COVID-19 impact patterns
 - Identify factors influencing death rates
 - Cluster countries based on pandemic response patterns
 - Predict death rates using machine learning
@@ -201,7 +200,7 @@ Countries are automatically classified into risk categories:
 
 ## 📊 Visualizations
 
-The project generates multiple types of visualizations:
+The project generates multiple types of visualisations:
 
 ### Basic Charts
 - Bar charts for top countries
@@ -209,11 +208,11 @@ The project generates multiple types of visualizations:
 - Scatter plots for correlation analysis
 - Horizontal bar charts for regional comparisons
 
-### Advanced Visualizations
+### Advanced Visualisations
 - Correlation heatmaps
 - Multi-subplot dashboards
 - Box plots for distribution comparisons
-- Cluster visualization plots
+- Cluster visualisation plots
 
 ### Machine Learning Charts
 - Model performance comparisons
